@@ -1,0 +1,15 @@
+{
+    "name": "kishor/composer",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "kiran",
+            "email": "kiran.deshmukh111@gmail.com"
+        }
+    ],
+    "require": {}
+}
